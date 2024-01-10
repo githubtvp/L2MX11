@@ -1,8 +1,3 @@
-
-
-
-rem Simple Git Script
-
 cd C:\Users\Varadha\Desktop\MX11
 
 git pull origin main
